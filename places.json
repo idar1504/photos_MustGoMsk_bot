@@ -5,13 +5,13 @@
         "name": "Sporco",
         "desc": "Атмосферный бар-пиццерия с разнообразным меню.",
         "yandex": "https://yandex.ru/maps/-/CHCI6JY5",
-        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/photos/Sporco.jpg"
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Фото/Sporco.jpg"
       },
       {
         "name": "Frank by Баста",
         "desc": "Сетевой ресторан c разнообразием блюд от фирменных рёбер до авторских десертов",
         "yandex": "https://yandex.ru/maps/org/frank_by_basta/223077694891/?ll=37.637893%2C55.730310&z=15",
-        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/photos/Frank_by_Basta.jpg"
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Фото/Frank_by_Basta.jpg"
       }
     ],
     "парки/скверы": [
@@ -19,6 +19,42 @@
         "name": "Чистопрудный бульвар",
         "desc": "Уютное место для прогулки и отдыха.",
         "yandex": "https://yandex.ru/maps/?text=Чистопрудный%20бульвар"
+      }
+    ]
+  },
+  "Комсомольская": {
+    "бары и рестораны": [
+      {
+        "name": "Эклерная Клер",
+        "desc": "Кондитерская с собственным цехом, где ежедневно пекут свежие эклеры",
+        "yandex": "https://yandex.ru/maps/org/eklernaya_kler/68971360627/?ll=37.643262%2C55.774011&z=15.13",
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Фото/kler.jpg"
+      },
+      {
+        "name": "Metekhi",
+        "desc": "Грузинский ресторан в Орликовом переулке. Готовят традиционные блюда Кавказа — в качестве закуски предлагают ассорти пхали из зеленой фасоли, свежей свеклы и шпината, с добавлением специй и грецкого ореха, или можно попробовать шарики из эларджи, которые подают с ореховым соусом.",
+        "yandex": "https://yandex.ru/maps/org/frank_by_basta/223077694891/?ll=37.637893%2C55.730310&z=15",
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Фото/metekhi.jpg"
+      },
+      {
+        "name": "Кочегар",
+        "desc": "Гастробар с акцентом на блюда на гриле на Краснопрудной улице",
+        "yandex": "https://yandex.ru/maps/org/kochegar/229142126402/?ll=37.662043%2C55.777566&z=16.24",
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Фото/kochegar.jpg"
+      }
+    ],
+    "парки/скверы": [
+      {
+        "name": "парк «Сад культуры и отдыха им. Н.Э. Баумана»",
+        "desc": "Небольшой сад Баумана не богат на исторические достопримечательности, но наполнен покоем и взывает к отдыху. Тут без толкучки можно побегать, позаниматься йогой с инструктором, посмотреть фильмы, покататься на велосипеде.",
+        "yandex": "https://yandex.ru/maps/org/sad_imeni_n_e_baumana/1116728341/?ll=37.647433%2C55.774011&mode=search&sctx=ZAAAAAgBEAAaKAoSCTlhwmhW0kJAEUTf3coS40tAEhIJ%2BFJ40Oy6lz8RJ4bkZOJWkT8iBgABAgMEBSgKOABAzJIHSAFqAnJ1nQHNzMw9oAEAqAEAvQGxRD4YwgEFldi%2FlASCAlLQv9Cw0YDQutC1IMKr0KHQsNC0INC60YPQu9GM0YLRg9GA0Ysg0Lgg0L7RgtC00YvRhdCwINC40LwuINCdLtCtLiDQkdCw0YPQvNCw0L3QsMK7igIAkgIAmgIMZGVza3RvcC1tYXBzsAIB&sll=37.647433%2C55.774011&sspn=0.078964%2C0.033865&text=парке%20«Сад%20культуры%20и%20отдыха%20им.%20Н.Э.%20Баумана»&z=14",
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Фото/sadbaym.jpg"
+      },
+      {
+        "name": "Парк «Площадка в Саду»",
+        "desc": "В Саду Баумана появилась необычная детская площадка, напоминающая одновременно и «американские горки», и пиратский корабль, и тренировочную площадку для космонавтов. Доступная для всех детей без ограничения — ни в возрасте, ни в возможностях, ни в фантазиях.",
+        "yandex": "https://yandex.ru/maps/org/ploshchadka_v_sadu/94312809919/?filter=alternate_vertical%3ARequestWindow&ll=37.640256%2C55.775820&mode=search&sctx=ZAAAAAgBEAAaKAoSCfOspBXf0kJAEUTf3coS40tAEhIJPrSPFfw2tD8Ru0T11sBWoT8iBgABAgMEBSgKOABAzJIHSAFqAnJ1nQHNzMw9oAEAqAEAvQG%2FjciQwgEGv4vtq98CggIp0J%2FQsNGA0LogwqvQn9C70L7RidCw0LTQutCwINCyINCh0LDQtNGDwruKAgCSAgCaAgxkZXNrdG9wLW1hcHM%3D&sll=37.640256%2C55.775820&sspn=0.078964%2C0.033864&text=Парк%20«Площадка%20в%20Саду»&z=14",
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Фото/ploshadkavsady.jpg"
       }
     ]
   }
