@@ -1,24 +1,24 @@
 {
-  "Павелецкая": {
-    "бары и рестораны": [
+  "РџР°РІРµР»РµС†РєР°СЏ": {
+    "Р±Р°СЂС‹ Рё СЂРµСЃС‚РѕСЂР°РЅС‹": [
       {
         "name": "Sporco",
-        "desc": "Атмосферный бар-пиццерия с разнообразным меню.",
+        "desc": "РђС‚РјРѕСЃС„РµСЂРЅС‹Р№ Р±Р°СЂ-РїРёС†С†РµСЂРёСЏ СЃ СЂР°Р·РЅРѕРѕР±СЂР°Р·РЅС‹Рј РјРµРЅСЋ.",
         "yandex": "https://yandex.ru/maps/-/CHCI6JY5",
-        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Павелецкая/Sporco.jpg"
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/РџР°РІРµР»РµС†РєР°СЏ/Sporco.jpg"
       },
       {
-        "name": "Frank by Баста",
-        "desc": "Сетевой ресторан c разнообразием блюд от фирменных рёбер до авторских десертов",
+        "name": "Frank by Р‘Р°СЃС‚Р°",
+        "desc": "РЎРµС‚РµРІРѕР№ СЂРµСЃС‚РѕСЂР°РЅ c СЂР°Р·РЅРѕРѕР±СЂР°Р·РёРµРј Р±Р»СЋРґ РѕС‚ С„РёСЂРјРµРЅРЅС‹С… СЂС‘Р±РµСЂ РґРѕ Р°РІС‚РѕСЂСЃРєРёС… РґРµСЃРµСЂС‚РѕРІ",
         "yandex": "https://yandex.ru/maps/org/frank_by_basta/223077694891/?ll=37.637893%2C55.730310&z=15",
-        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Павелецкая/Frank_by_Basta.jpg"
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/РџР°РІРµР»РµС†РєР°СЏ/Frank_by_Basta.jpg"
       }
     ],
-    "парки/скверы": [
+    "РїР°СЂРєРё/СЃРєРІРµСЂС‹": [
       {
-        "name": "Чистопрудный бульвар",
-        "desc": "Уютное место для прогулки и отдыха.",
-        "yandex": "https://yandex.ru/maps/?text=Чистопрудный%20бульвар"
+        "name": "Р§РёСЃС‚РѕРїСЂСѓРґРЅС‹Р№ Р±СѓР»СЊРІР°СЂ",
+        "desc": "РЈСЋС‚РЅРѕРµ РјРµСЃС‚Рѕ РґР»СЏ РїСЂРѕРіСѓР»РєРё Рё РѕС‚РґС‹С…Р°.",
+        "yandex": "https://yandex.ru/maps/?text=Р§РёСЃС‚РѕРїСЂСѓРґРЅС‹Р№%20Р±СѓР»СЊРІР°СЂ"
       }
     ]
   }
