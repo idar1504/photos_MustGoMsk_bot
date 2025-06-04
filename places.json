@@ -1,0 +1,25 @@
+{
+  "Павелецкая": {
+    "бары и рестораны": [
+      {
+        "name": "Sporco",
+        "desc": "Атмосферный бар-пиццерия с разнообразным меню.",
+        "yandex": "https://yandex.ru/maps/-/CHCI6JY5",
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Павелецкая/Sporco.jpg"
+      },
+      {
+        "name": "Frank by Баста",
+        "desc": "Сетевой ресторан c разнообразием блюд от фирменных рёбер до авторских десертов",
+        "yandex": "https://yandex.ru/maps/org/frank_by_basta/223077694891/?ll=37.637893%2C55.730310&z=15",
+        "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Павелецкая/Frank_by_Basta.jpg"
+      }
+    ],
+    "парки/скверы": [
+      {
+        "name": "Чистопрудный бульвар",
+        "desc": "Уютное место для прогулки и отдыха.",
+        "yandex": "https://yandex.ru/maps/?text=Чистопрудный%20бульвар"
+      }
+    ]
+  }
+}
