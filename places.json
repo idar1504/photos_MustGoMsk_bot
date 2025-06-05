@@ -3409,14 +3409,14 @@
             {
                 "name": "Крымский мост",
                 "desc": "Исторический мост через Москву-реку с живописными видами.",
-                "yandex": "https://yandex.ru/maps/org/krymskiy_most/6789012345",
-                "image": "https://example.com/images/krymskiy_most.jpg"
+                "yandex": "https://yandex.ru/maps/213/moscow/geo/krymskiy_most/10042359/?ll=37.599112%2C55.733954&z=18",
+                "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Фото/krymskiy_most.jfif"
             },
             {
                 "name": "Церковь Иоанна Воина",
                 "desc": "Историческая церковь с богатой архитектурой и историей.",
-                "yandex": "https://yandex.ru/maps/org/cerkov_ioanna_voina/7890123456",
-                "image": "https://example.com/images/cerkov_ioanna_voina.jpg"
+                "yandex": "https://yandex.ru/maps/org/tserkov_ioanna_voina_na_yakimanke/1012249513/?ll=37.611096%2C55.732768&z=16",
+                "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Фото/cerkov_ioanna_voina.webp"
             },
             {
                 "name": "Дом Игумнова",
