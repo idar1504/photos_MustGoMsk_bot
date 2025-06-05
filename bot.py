@@ -136,25 +136,44 @@ async def show_place(update_or_query, context, edit=True):
     ]
     markup = InlineKeyboardMarkup(keyboard)
 
-    image_url = place.get("image", "https://example.com/default.jpg")
+    image_url = place.get("image")
 
     if edit and isinstance(update_or_query, Update):
         query = update_or_query.callback_query
         try:
-            await query.edit_message_media(
-                media=InputMediaPhoto(media=image_url, caption=text, parse_mode="HTML"),
-                reply_markup=markup
-            )
+            if image_url:
+                await query.edit_message_media(
+                    media=InputMediaPhoto(media=image_url, caption=text, parse_mode="HTML"),
+                    reply_markup=markup
+                )
+            else:
+                raise ValueError("Нет изображения")
         except Exception as e:
-            print("❗ Ошибка при редактировании фото:", e)
+            print("❗ Ошибка при редактировании фото или отсутствует изображение:", e)
+            try:
+                await query.edit_message_caption(caption=text, parse_mode="HTML", reply_markup=markup)
+            except Exception as e2:
+                print("❗ Ошибка при редактировании подписи:", e2)
         await query.answer()
     else:
-        await update_or_query.message.reply_photo(
-            photo=image_url,
-            caption=text,
-            parse_mode="HTML",
-            reply_markup=markup
-        )
+        try:
+            if image_url:
+                await update_or_query.message.reply_photo(
+                    photo=image_url,
+                    caption=text,
+                    parse_mode="HTML",
+                    reply_markup=markup
+                )
+            else:
+                raise ValueError("Нет изображения")
+        except Exception as e:
+            print("❗ Ошибка при отправке фото или отсутствует изображение:", e)
+            await update_or_query.message.reply_text(
+                text,
+                parse_mode="HTML",
+                reply_markup=markup
+            )
+
         await update_or_query.message.reply_text(
             "Выбирай следующую команду ⬇️",
             reply_markup=main_keyboard
