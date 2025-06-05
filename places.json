@@ -3421,8 +3421,8 @@
             {
                 "name": "Дом Игумнова",
                 "desc": "Архитектурный памятник конца XIX века, построенный как особняк.",
-                "yandex": "https://yandex.ru/maps/org/dom_igumnova/8901234567",
-                "image": "https://example.com/images/dom_igumnova.jpg"
+                "yandex": "https://yandex.ru/maps/org/dom_kuptsa_igumnova/52157357146/?ll=37.612923%2C55.732757&z=13",
+                "image": "https://raw.githubusercontent.com/idar1504/photos_MustGoMsk_bot/main/Фото/dom_igumnova.webp"
             }
         ]
     }
