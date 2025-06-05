@@ -314,7 +314,6 @@ async def main():
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(CommandHandler("weather", weather))
-    app.add_handler(CommandHandler("invitation", invitation))
     app.add_handler(CallbackQueryHandler(callback_handler))
 
     app.add_handler(ConversationHandler(
